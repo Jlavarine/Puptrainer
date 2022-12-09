@@ -6,10 +6,10 @@
 
 
 # Intro
-This application is the front-end repository for [PupTrainer](https://pup-trainer.herokuapp.com) , the back-end repository can be found [HERE](https://github.com/PupTrainer/be_puptrainer) .  The back-end is also deployed to Heroku, and can be found [HERE](https://pup-trainer-api.herokuapp.com)
+This application is the front-end repository for [PupTrainer](https://pup-trainer.herokuapp.com) , the back-end repository can be found [HERE](https://github.com/PupTrainer/be_puptrainer) .
 
 # Deployed link
-The Frontend application can be viewed [HERE](https://pup-trainer.herokuapp.com/)
+Currently updating the deployed link (12/9/2022)
 
 # Technologies Used
 - React
